@@ -32,7 +32,6 @@
     "react-burger-menu": "^3.0.9",
     "react-dom": "18.2.0",
     "react-map-gl": "^7.0.25",
-    "react-swipeable-views": "^0.14.0",
     "react-swipeable-views-utils": "^0.14.0",
     "tss-react": "^4.8.6"
   },
